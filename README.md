@@ -1,4 +1,4 @@
-**DSA LeetCode 366-Day Streak Challenge** 🚀
+**DSA LeetCode 365-Day Streak Challenge** 🚀
 
 Welcome to my 366-day journey of conquering Data Structures and Algorithms on LeetCode! 👨‍💻
 
