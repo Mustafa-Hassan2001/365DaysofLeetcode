@@ -1,10 +1,10 @@
 **DSA LeetCode 365-Day Streak Challenge** 🚀
 
-Welcome to my 366-day journey of conquering Data Structures and Algorithms on LeetCode! 👨‍💻
+Welcome to my 365-day journey of conquering Data Structures and Algorithms on LeetCode! 👨‍💻
 
 ### 📖 What's This Challenge About?
 
-For the next 366 days, I'm committed to daily sessions of diving into LeetCode problems, sharpening my problem-solving skills, and mastering various data structures and algorithms. 🏋️‍♂️
+For the next 365 days, I'm committed to daily sessions of diving into LeetCode problems, sharpening my problem-solving skills, and mastering various data structures and algorithms. 🏋️‍♂️
 
 ### 🚨 Why LeetCode?
 
